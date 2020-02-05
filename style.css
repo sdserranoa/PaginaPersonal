@@ -37,6 +37,10 @@ li a:hover {
     margin: 50px;
 }
 
+.img-rounded2 {
+    border-radius:70%;
+}
+
 .about  {
     background-color: rgb(121, 160, 149);
     margin: 0px;
@@ -51,4 +55,8 @@ h2 {
 p {
     margin: 50px;
     padding: 10px;
+}
+
+.firstimg {
+    margin-top: 20px;
 }
