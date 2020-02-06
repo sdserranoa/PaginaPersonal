@@ -68,9 +68,7 @@ p {
     margin-top: 20px;
 }
 
-.contacto {
-    margin: 50px;
-}
+
 
 .proyects {
     background-color: rgb(241, 247, 237);
@@ -126,4 +124,8 @@ audio {
 
 .marginbot {
     margin-bottom: 10px;
+}
+
+video {
+    margin: 10px;
 }
