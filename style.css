@@ -123,3 +123,7 @@ audio {
 .formation {
     background-color: #79a095;
 }
+
+.marginbot {
+    margin-bottom: 10px;
+}
