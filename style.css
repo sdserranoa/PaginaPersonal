@@ -19,7 +19,9 @@ li a {
     display: block;
     color: black;
     text-align: center;
-    padding: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
     text-decoration: none;
 }
 
@@ -60,3 +62,55 @@ p {
 .firstimg {
     margin-top: 20px;
 }
+
+.contacto {
+    margin: 50px;
+}
+
+.proyects {
+    background-color: rgb(241, 247, 237);
+}
+
+.footer {
+    background-color: rgb(97, 97, 99);
+}
+
+.proyecto {
+    background-color: rgb(33, 119, 99);
+    border-radius: 92px 92px 92px 92px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+}
+
+.proyecto:hover {
+    background-color: rgb(27, 94, 78);
+}
+
+.hobbies {
+    background-color: rgb(124, 198, 254);
+}
+
+.title-proy {
+    text-align: center;
+}
+
+.fixed-top {
+    background-color: rgb(248, 250, 251);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  audio {
+      margin-left: 50px;
+  }
