@@ -54,6 +54,11 @@ h2 {
     padding: 10px;
 }
 
+h3 {
+    margin: 50px;
+    padding: 10px;
+}
+
 p {
     margin: 50px;
     padding: 10px;
@@ -111,6 +116,10 @@ html {
     display: inline-block;
   }
 
-  audio {
-      margin-left: 50px;
-  }
+audio {
+    margin-left: 50px;
+}
+
+.formation {
+    background-color: #79a095;
+}
